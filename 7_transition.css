@@ -163,7 +163,7 @@ a[href*="google.com"]::after{
   width:18px;
   height:18px;
   margin-left:8px;
-  background:url("arrowarrow.png") no-repeat center/contain;
+  background:url("arrow.png") no-repeat center/contain;
   vertical-align:text-bottom;
 }
 
